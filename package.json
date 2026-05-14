@@ -1,0 +1,12 @@
+{
+  "name": "buggy-test-repo",
+  "version": "1.0.0",
+  "description": "Test repo with intentional bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
